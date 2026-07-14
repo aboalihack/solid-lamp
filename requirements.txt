@@ -1,4 +1,4 @@
-upython-telegram-bot
-httpx
-python-dotenv
-flask
+python-telegram-bot==20.8
+httpx>=0.24.0
+python-dotenv>=1.0.0
+nest-asyncio>=1.5.6
